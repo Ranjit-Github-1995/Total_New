@@ -1,0 +1,11 @@
+
+
+@font-face {
+  font-family: 'FontAwesome5Free-Solid';
+  src:  url('FontAwesome5Free-Solid.otf')  format('opentype'),
+	     url() format('woff'), url('FontAwesome5Free-Solid.ttf')  format('truetype'), url('FontAwesome5Free-Solid.svg#FontAwesome5Free-Solid') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
